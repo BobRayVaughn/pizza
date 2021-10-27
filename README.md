@@ -1,2 +1,2 @@
 # pizza
-Thinkful program practice
+<h1>Thinkful program practice</h1>
